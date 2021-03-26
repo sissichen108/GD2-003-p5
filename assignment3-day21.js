@@ -2,12 +2,9 @@ function setup() {
   createCanvas(1000,1000);
   background(0);
   fill(255);
-   
-
-
   
 		
-	} 
+} 
 
 function draw() {
 	triangle(1000, 300, 600, 400, 1000, 700); // right triangle
